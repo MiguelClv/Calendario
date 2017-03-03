@@ -16,7 +16,6 @@ public class Main {
         int dia = scanner.nextInt();
 
         Calendario cal1 = new Calendario(año,mes,dia);
-        cal1.mostrar();
 
         System.out.println("Incrementa los dias, meses y años e intenta adivinarlo!");
 
